@@ -18,12 +18,3 @@ function scrollToElement3() {
         behavior: 'smooth'
     });
 };
-document.querySelector("button").addEventListener("click", function () {
-    Swal.fire({
-        title: "display button refferensi",
-        showCancelButton: true,
-        confirmButtonText: "Confirm",
-        confirmButtonColor: "#00ff99",
-        cancelButtonColor: "#ff0099"
-    });
-});
