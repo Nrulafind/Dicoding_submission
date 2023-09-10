@@ -18,7 +18,7 @@ function scrollToElement3() {
         behavior: 'smooth'
     });
 };
-document.querySelector(".refferences").addEventListener("click", function () {
+document.querySelector("button").addEventListener("click", function () {
     Swal.fire({
         title: "display button refferensi",
         showCancelButton: true,
