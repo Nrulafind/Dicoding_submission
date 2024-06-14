@@ -4,6 +4,6 @@ Hi, there, ini adalah project yang di develop untuk menyelesaikan salah satu kel
 
 ## Mathematic
 
-Kamu bisa cek melalui [URL berikut]([https://contohurl.com](https://nrulafind.github.io/Dicoding_submission/), 
+Kamu bisa cek melalui [URL berikut](https://nrulafind.github.io/Dicoding_submission/), 
 
 ini merupakan web static native sederhana menggunakan HTML, CSS untuk melakukan show beberapa card artikel dari Google.
